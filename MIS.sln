@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIS", "MIS\MIS.csproj", "{FB22FCDB-41F4-42BB-9A34-ABF2F389BDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB22FCDB-41F4-42BB-9A34-ABF2F389BDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB22FCDB-41F4-42BB-9A34-ABF2F389BDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB22FCDB-41F4-42BB-9A34-ABF2F389BDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB22FCDB-41F4-42BB-9A34-ABF2F389BDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E66265CE-0A40-4901-999B-78E785E1FA8E}
+	EndGlobalSection
+EndGlobal
